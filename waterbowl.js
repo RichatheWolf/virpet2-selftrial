@@ -1,0 +1,1 @@
+// these are variables which should only appear at certain times, such that the dog is fed/quenched of hunger/thirst
